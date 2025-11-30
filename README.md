@@ -1,4 +1,4 @@
-# Fitness app using Springboot Microservices 
+#  Synapse Fitness a Fitness app using Springboot Microservices 
 
 This repository contains a distributed microservices system designed with modularity, scalability, and high availability in mind.  
 The system integrates user management, activity tracking, AI processing, and external LLM services while leveraging a centralized authentication server, message queue, service discovery, and configuration management.
